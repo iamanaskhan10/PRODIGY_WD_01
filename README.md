@@ -4,8 +4,8 @@ A Responsive Landing Page using HTML, CSS, and JavaScript.
 
 Features:
 
-    Fixed Navigation: Always visible at the top of the page.
-    
-    Scroll Effect: Background color changes on scroll.
-    
-    Hover Effect: Menu item font color changes on hover.
+    Features:
+
+    Hover Effect:  Dynamic zoom transitions for an immersive user experience 💫
+
+    Scroll Effect: Background color of navbar changes on scroll.
